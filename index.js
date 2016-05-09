@@ -1,4 +1,3 @@
-
 function product (word, n) {
   var prefix = word.slice(0, n)
   var matches = 1
